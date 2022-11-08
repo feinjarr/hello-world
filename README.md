@@ -1,6 +1,5 @@
 # hello-world
 Example Repository
 
-My name is Jarrett.
-I am a student at MSU.
-I study Math and Physics.
+My name is Matt
+I changed this file woohoo
